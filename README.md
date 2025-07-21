@@ -596,18 +596,3 @@ Suggested starting parameters for OpenWakeWord usage:
    ```
 2. **Upgrade cuDNN** on your system to version 9.2 or above.
 
-## Contribution
-
-Contributions are always welcome! 
-
-Shoutout to [Steven Linn](https://github.com/stevenlafl) for providing docker support. 
-
-## License
-
-[MIT](https://github.com/KoljaB/RealtimeSTT?tab=MIT-1-ov-file)
-
-## Author
-
-Kolja Beigel  
-Email: kolja.beigel@web.de  
-[GitHub](https://github.com/KoljaB/RealtimeSTT)
